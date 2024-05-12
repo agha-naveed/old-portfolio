@@ -89,6 +89,7 @@ header .main-header {
     display: flex;
     gap: 10%;
     height: 20vh;
+    align-items: center;
     /* margin-top: 5%; */
 }
 .header-animation .header-contacts {
