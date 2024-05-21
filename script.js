@@ -50,6 +50,7 @@ let animationsDelay = () => {
 }
 
 animationsDelay()
+setInterval(animationsDelay, 9200)
 
 
 let cursor = document.querySelector('.cursor')
